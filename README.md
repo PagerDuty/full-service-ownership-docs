@@ -6,7 +6,7 @@ This guide documents a collection of leading practices for empowering engineers 
 
 You can view the documentation directly in this repository, or rendered as a website at https://ownership.pagerduty.com.
 
-[![PagerDuty Full Service Ownership](screenshot.png)](https://ownership.pagerduty.com)
+[![PagerDuty Full-Service Ownership](screenshot.png)](https://ownership.pagerduty.com)
 
 ## Development
 We use [MkDocs](http://www.mkdocs.org/) to create a static site from this repository. For local development,
@@ -41,7 +41,7 @@ Thank you for considering contributing! If you have any questions, just ask - or
 
 Here is our preferred process for submitting a pull request,
 
-1. Fork it ( https://github.com/PagerDuty/retrospectives-docs/fork )
+1. Fork it ( https://github.com/PagerDuty/full-service-ownership-docs/fork )
 1. Create your feature branch (`git checkout -b my-new-feature`)
 1. Commit your changes (`git commit -am 'Add some feature'`)
 1. Push to the branch (`git push origin my-new-feature`)

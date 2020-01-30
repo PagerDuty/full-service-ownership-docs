@@ -1,9 +1,9 @@
 # Project Information
 site_name: PagerDuty Full-Service Ownership Documentation
-site_description: A collection of best practices for empowering engineers to own their code and services in production. This guide teaches you how to develop the right culture to implement full-service owenrship strategies, and how to foster an environment of accountability with high quality code.
+site_description: A collection of best practices for empowering engineers to own their code and services in production. This guide provides a step-by-step process to help teams implement and scale full-service ownership methodology across their organization.
 site_author: PagerDuty, Inc.
 site_favicon: 'assets/img/favicon.png'
-site_url: https://fullserviceownership.pagerduty.com
+site_url: https://ownership.pagerduty.com
 
 # Repository
 repo_url: https://github.com/PagerDuty/full-service-ownership-docs
@@ -33,11 +33,15 @@ dev_addr: '0.0.0.0:8080'
 # Contents
 pages:
   - Home: 'index.md'
-  - Definitions: 'definitions.md'
+  - Introduction: 'introduction.md'
   - Digital Transformation: 'digital_transformation.md'
-  - Implementing Full-Service Ownership: 'implementing_full_service_ownership_model.md'
-  - Getting Tactical - How to go On-Call: 'getting_tactical.md'
-  - After On-Call: 'after.md'
+  - Defining a Service: 'defining.md'
+  - Service Ownership Functions: 'functions.md'
+  - Lifecycle of a Service: 'lifecycle.md'
+  - Escalation Policies: 'escalations.md'
+  - On-Call Shifts: 'on-call.md'
+  - Tips for Getting Started: 'getting_started.md'
+  - Tips for Scaling: 'scaling.md'
   - Additional Resources: 'resources.md'
 
 # Analytics

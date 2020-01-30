@@ -1,17 +1,33 @@
-![Digital_Transformation](../assets/img/FullService_DigitalTransformation.png)
+---
+cover: assets/img/headers/FullService_DigitalTransformation.png
+description: Full-Service Ownership and its relationship to Digital Transformation. Start here to demonstrate business value early in your transformation initative.
+---
+![Digital_Transformation](../assets/img/headers/FullService_DigitalTransformation.png)
 
-Systems will inevitably fail and, when they do, the time it takes you to recover is the difference between competitive advantage and market failure. To survive in the digital world, you must ensure the lowest possible time to restoring services by empowering your engineers to own their services and systems in production.
+!!! tip
+    Before proceeding, it’s important to acknowledge the role of digital transformation when implementing full-service ownership. Managers may find this section particularly useful. If digital transformation is not your jam, you should [skip to the next section](defining.md).
 
-Digital transformation is now top of mind for CEOs and is imperative for organizations to remain relevant.
+## Digital Transformation
+Why are you here and why are you reading this documentation now? Chances are, it's because your organization is undergoing an initiative to modernize your technical practices—also known as digital transformation.
 
-[The PagerDuty State of Digital Operations 2017 UK report showed](https://www.pagerduty.com/resources/reports/digital-operations-uk/):
+Digital transformation is now an imperative initiative for many executives and organizations because speed is what matters when competing for customers. The PagerDuty [State of Digital Operations 2017 UK report](https://www.pagerduty.com/resources/reports/digital-operations-uk/) showed that when a digital service is unresponsive or slow, 86.6% of consumers will switch to an alternative way (read: not your company) to complete their task. And when they do, 66.8% said they would probably never return to try your service again. Those are pretty stark numbers.
 
-> "When a digital app or service is unresponsive or slow, 86.6 percent of consumers said they are likely to temporarily switch to an alternative mobile app or website to complete their task. 66.8 percent of respondents said they were likely to never use the app or website again.”
+Services will fail; it's a fact of operating. How your company responds when that happens is what makes all the difference between consumers staying with you or abandoning your services in favor of a competitor's. Reducing the number of handoffs by empowering engineers to own their services in production can significantly mitigate that risk by reducing resolution time whenever incidents occur. Placing subject matter experts with direct knowledge of the systems they support in the role of first responders will decrease the inevitable chaos and panic that arise from uncertainty, leading to lower incident resolution times.
 
-Even if customers don't completely abandon a company, the financial and reputational cost of unavailable services can be crippling. A two-hour system outage at a major retailer was recently forecast to have cost the company 50 million dollars.
+Faster incident resolution times is certainly not the only benefit of implementing full-service ownership ([other benefits include](https://cloud.google.com/devops/state-of-devops/) increased market share, higher profitability, and better team satisfaction, among others), but it is one of the easiest to quickly measure to demonstrate ROI during a transformational initiative that may otherwise take several months or years to achieve measurable results and key desired outcomes.
 
-Systems will go down; it's a fact of operating. However, companies can significantly mitigate business risk by reducing the time to restoration by ensuring that engineers are empowered and able to own their services and systems. Full-service ownership reduces resolution time by bringing the subject matter expert in as the first responder while at the same time decreasing chaos and panic, through the adoption of on-call.
 
-On-call is the best way to ensure reliability and availability of systems and services. on-call allows for accountability to outcomes that matter. Engineers are most successful when they are empowered and accountable for these outcomes. With advances in tooling, cloud computing, and numerous platforms that make all of this possible, engineers are naturally getting closer and closer to the end-user and customer experience. You can even say that engineers are the true owners of the end experience and are in the best position to affect change.
+## Demonstrating Value
+A quick win along your transformational path can be to prove success through metrics. The data doesn't lie. How effectively your organization responds to incidents has a direct impact on customer experience and, therefore, your key business objectives. Measuring the impact of incidents is a good first place to start.
 
-Full-service ownership leverages the empowerment of on-call to benefit both the business and the individual engineer. With the shift to the cloud, the role of engineers has drastically changed over the last few years to spend less time on infrastructure needs and spend more time on the customer experience. This is an exciting time to iterate, improve, and ultimately to take ownership over the code that is written. Ownership, responsibility, and accountability all ensure engineers are doing high-value work; as engineers now have a direct line of sight into how their product(s)/service(s) are performing and impacting the customers' day-to-day. Additionally, this new responsibility of ownership provides feedback directly into the hands of the developer.
+Measuring the impact of major incidents can be done with a simple graph where X represents time and Y represents the number of customers affected. The sample chart below references a critical incident as the impact grows over time. The bigger the area under the trend line, the more severe the incident. The area under the curve and the time it takes to start going down illustrates the impact on customers.
+
+![incidentimpact chart](../assets/img/incident_impact.png)
+
+_For more information on how PagerDuty classifies incidents, check out the [Incident Response Guide](https://response.pagerduty.com/before/severity_levels/)._
+
+How your organization reacts and mitigates the impact of an incident can be measured several ways. Arguably, there may be more sophisticated ways of measuring incident impact, but a good first step for many organizations looking to quantifiably demonstrate the success of shifting full-service ownership models is to focus on measuring Mean-Time-To-Acknowledge (MTTA) and Mean-Time-To-Resolution (MTTR).
+
+MTTA is used to measure the average time between when an incident is triggered and when a user acknowledges awareness of the incident. MTTR measures the average time between when the incident is triggered and when it is resolved. Once an incident is triggered, the clock starts ticking on both MTTA and MTTR. Optimizing the response process through streamlining mechanisms—like adopting the Full-Service Ownership model—can have a positive impact on both measurements by removing the chaos involved in tracking down experts in a moment of crisis.
+
+Again, there are many additional benefits to adopting the model of service ownership described in this guide. Additionally, MTTA and MTTR are by no means the end-all-be-all measurements that matter most when understanding how your organization manages incidents. But these measures do provide an incredibly valuable tool when seeking to demonstrate the business value of adopting a full-service ownership model that should be a key part of any Digital Transformation initiative.
