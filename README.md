@@ -1,6 +1,6 @@
 # PagerDuty Full Service Ownership Documentation
 
-[![Netlify Status](status)](deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c88ee9c2-f513-49a2-a3b9-de8458ca229b/deploy-status)](https://app.netlify.com/sites/ownership-dbd0d9/deploys)
 
 This guide documents a collection of leading practices for empowering engineers to own their code and services in production. It teaches you how to develop the right culture to implement full-service owenrship strategies, and how to foster an environment of accountability with high quality code.
 
