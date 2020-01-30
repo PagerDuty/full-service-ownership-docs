@@ -32,7 +32,7 @@ description: Additional resources cited in this guide.
 ### Resilient Systems
 - [How to Manage a Tier Zero Service](https://www.pagerduty.com/blog/how-to-manage-a-tier-zero-service/) (PagerDuty)
 - [Failure Friday: How We Ensure PagerDuty is Always Reliable](https://www.pagerduty.com/blog/failure-friday-at-pagerduty/) (PagerDuty)
-- [Failure Fridays: Four Years On](this_one_is_broken - https://www.pagerduty.com/blog/failure-fridays-four-years/) (PagerDuty)
+- [Failure Fridays: Four Years On](https://www.pagerduty.com/blog/failure-fridays-four-years/) (PagerDuty)
 - [Chaos Engineering With Bruce Wong](https://www.pageittothelimit.com/chaos-engineering-with-bruce-wong/) (Page It to the Limit)
 
 ### On-Call Resources
