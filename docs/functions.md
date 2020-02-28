@@ -73,7 +73,7 @@ The goal with SLI/SLO/SLAs is to set both internal and external expectations for
 SLAs should be consistent for each service. If you have more than one SLA for a service, consider splitting up the service. Each service should only be accountable to one SLA, though it may have multiple SLOs. For more about how to define service availability, we recommend reading [Chapter 4 of the Google SRE book](https://landing.google.com/sre/sre-book/chapters/service-level-objectives/).
 
 ### Service Tiers
-Defining a service tiers may be an alternate way to set organization-wide expectations to reduce the overhead of individual service teams. By agreeing on the definition of what services in a particular tier will provide, it can more quickly and effectively accomplish the task of setting expectations in a standardized way.
+Defining service tiers may be an alternate way to set organization-wide expectations to reduce the overhead of individual service teams. By agreeing on the definition of what services in a particular tier will provide, it can more quickly and effectively accomplish the task of setting expectations in a standardized way.
 
 Defining service tiers typically involves working with product owners and engineering leadership to set expectations.
 
