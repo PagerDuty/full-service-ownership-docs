@@ -4,7 +4,7 @@ description: A step-by-step guide to prepare full-service ownership teams to go 
 ---
 ![Going On-Call](../assets/img/headers/FullService_OnCall.png)
 
-> My greatest fear is getting a high priority page while on-call in a packed broadway theater, and PagerDuty plays a progressively louder and louder quacking siren, and Alexander Hamilton himself comes up to slap me and my phone out of my hand, and walks me out of the theater” via [Twitter](https://twitter.com/JulianVModesto/status/1222279149819256832)
+> My greatest fear is getting a high priority page while on-call in a packed Broadway theater, and PagerDuty plays a progressively louder and louder quacking siren, and Alexander Hamilton himself comes up to slap me and my phone out of my hand, and walks me out of the theater” via [Twitter](https://twitter.com/JulianVModesto/status/1222279149819256832)
 
 Going on-call for the first time can seem intimidating. But with proper preparation and practice, incident responders can have a positive experience that provides useful hands-on experience they can use to build more resilient production services. This section details how to prepare for going on-call and what to do during your shift in the on-call rotation.
 
