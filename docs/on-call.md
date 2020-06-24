@@ -57,7 +57,7 @@ During the triage process, responders are expected to evaluate the situation at 
 - Is the problem beyond the scope of what your team is responsible for or can do to resolve the issue?
 
 ### Taking Action
-service to full operational status. You have the authority to dive right in to fix what needs to be fixed, involve other teammates as needed, and escalate to an appropriate severity level if necessary. You also have the authority to delay additional work for non-time sensitive and non-impacting issues.
+Do what needs to be done to restore the service to full operational status. You have the authority to dive right in to fix what needs to be fixed, involve other teammates as needed, and escalate to an appropriate severity level if necessary. You also have the authority to delay additional work for non-time sensitive and non-impacting issues.
 
 While resolving a minor incident, you should keep basic notes when practical. It is vital to share information with your team, such as the symptoms that initially triggered the incident, investigative steps you took, and the actions taken to successfully resolve the incident. These notes can be immensely helpful in keeping your runbooks up-to-date. You should strive to continuously refactor and improve your team's knowledge base and documentation. Add redundant links and pointers if your mental model of the docs or codebase don't match what you discover during the course of the incident.
 
@@ -68,7 +68,7 @@ At the end of an on-call shift, responders should have an [On-Call Review Meetin
 
 Are there noisy alerts that need to be cut down to reduce alert fatigue? Is this service needlessly sending notifications for non-actionable events? The primary purpose of this review is to understand the on-call load for this shift, identify any sources of pain, transfer knowledge between responders, and plan for improvements of future on-call shifts.
 
-###On-Call Etiquette
+### On-Call Etiquette
 A bit of extra consideration can  make the on-call experience better for everyone involved. A few helpful on-call etiquette tips are listed below:
 
 - Be kind to folks currently on-call. If they come into work looking tired at noon, they probably got paged in the middle of the night.
