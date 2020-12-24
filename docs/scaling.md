@@ -1,8 +1,8 @@
 ---
-cover: assets/img/headers/FullService_Scaling.png
-description: The second hardest part of the journey (after initial succees) is scaling practices across your organization. These tips help you avoid common pitfalls.
+cover:
+description: The second hardest part of the journey (after initial success) is scaling practices across your organization. These tips help you avoid common pitfalls.
 ---
-![Tips for Scaling](../assets/img/headers/FullService_Scaling.png)
+![Tips for Scaling](../assets/img/headers/FSO_Scaling.png)
 
 > "Sub-optimization is when everyone is working for themselves. Optimization is when everyone is working to help the company." - W. Edwards Deming
 

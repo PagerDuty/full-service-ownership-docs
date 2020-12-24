@@ -1,8 +1,8 @@
 ---
-cover: assets/img/headers/FullService_DigitalTransformation.png
+cover:
 description: Full-Service Ownership and its relationship to Digital Transformation. Start here to demonstrate business value early in your transformation initative.
 ---
-![Digital_Transformation](../assets/img/headers/FullService_DigitalTransformation.png)
+![Digital_Transformation](../assets/img/headers/FSO-DigitalTrans.png)
 
 !!! tip
     Before proceeding, it’s important to acknowledge the role of digital transformation when implementing full-service ownership. Managers may find this section particularly useful. If digital transformation is not your jam, you should [skip to the next section](defining.md).

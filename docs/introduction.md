@@ -1,8 +1,8 @@
 ---
-cover: assets/img/headers/FullService_Introduction.png
+cover: 
 description: The basics of Full-Service Ownership. Why this level of ownership matters in today's world and why teams struggle to make the shift.
 ---
-![Introduction](../assets/img/headers/FullService_Introduction.png)
+![Introduction](../assets/img/headers/FSO-Intro.png)
 
 > "Innovation comes from people who take joy in their work." - W. Edwards Deming
 

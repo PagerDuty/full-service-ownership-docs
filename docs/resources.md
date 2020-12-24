@@ -1,8 +1,8 @@
 ---
-cover: assets/img/headers/FullService_Resources.png
+cover:
 description: Additional resources cited in this guide.
 ---
-![Additional Resources](../assets/img/headers/FullService_Resources.png)
+![Additional Resources](../assets/img/headers/FSO-Resources.png)
 
 ## Further Reading
 

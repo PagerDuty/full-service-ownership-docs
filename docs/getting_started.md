@@ -1,8 +1,8 @@
 ---
-cover: assets/img/headers/FullService_GettingStarted.png
+cover: 
 description: Tips to avoid common pitfalls when getting started down the path of full-service ownership.
 ---
-![Getting Started](../assets/img/headers/FullService_GettingStarted.png)
+![Getting Started](../assets/img/headers/FSO-GettingStarted.png)
 
 > "It does not happen all at once. There is no instant pudding." - W. Edwards Deming
 
