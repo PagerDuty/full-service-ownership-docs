@@ -51,10 +51,10 @@ Response Plays are available on the [Business or Digital Operations plans](https
 Escalation policies allow you to mobilize the right people at the right time by connecting services to on-call schedules. A best practice with any escalation policy is to have a multi-tiered approach; at PagerDuty, we have three tiers of escalation policies for services.
 
 !!! tip
-    Individuals should never be assigned to an escalation policy; instead, a a schedule should be assigned. For example, if your CEO is the final escalation point, put the CEO on an on-call schedule titled “CEO On-Call” and have that schedule be the final escalation path.
+    Individuals should never be assigned to an escalation policy; instead, a schedule should be assigned. For example, if your CEO is the final escalation point, put the CEO on an on-call schedule titled “CEO On-Call” and have that schedule be the final escalation path.
 
 
-Once the escalation policies are created, then services should be attached to those policies. A sample policy is below.
+Once the escalation policies are created, services should be attached to those policies. A sample policy is below.
 
 Example escalation policy for an Application Team:
 
