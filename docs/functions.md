@@ -24,7 +24,7 @@ Remember, you are not the only person who will interact with this service. Make 
 Use each section below to document your service so that others may understand it.
 
 ### Service Name
-They say the two hardest things in computer science are caching strategies and naming—and they're not wrong. It's completely normal to want to use silly names (e.g., Greek mythological figures, pop culture references, space missions, inside jokes, etc.) as fun service names. When you have a small organization, it's natural to think that everyone will remember your clever reference and chuckle when they interact with your service.
+They say the two hardest things in computer science are caching strategies and naming — and they're not wrong. It's completely normal to want to use silly names (e.g., Greek mythological figures, pop culture references, space missions, inside jokes, etc.) as fun service names. When you have a small organization, it's natural to think that everyone will remember your clever reference and chuckle when they interact with your service.
 
 But as your organization grows and new teammates join, not everyone will be privy to your sharp wit and clever reference to old inside jokes. Instead, they'll mostly be confused, and your clever wit gets replaced with frustrated repetition as you have to keep explaining what your service is and maybe why you once thought that was funny.
 
@@ -86,12 +86,12 @@ Your tier definitions may be different (or sometimes, [even our own!](https://ww
 ## Runbooks
 Things will go wrong. Services will fail for any variety of reasons. As you learn about the different nuances of your service, you should keep a record of what you've successfully done in the past that might resolve common issues in the future. In an ideal world, you have the ability to resolve these common issues at the source of the problem within your code. But sometimes, a procedural fix may be necessary until you reach that ideal state. [Runbooks](https://en.wikipedia.org/wiki/Runbook) are a great place to store these types of procedural fixes.
 
-Always remember that a runbook is not comprehensive—it's not possible to consider every type of incident or issue that a service may encounter, and due to the nature of complex systems, there isn't always a common procedure for every incident that occurs. However, it can be helpful to capture repeated processes or initial approaches to troubleshooting.
+Always remember that a runbook is not comprehensive — it's not possible to consider every type of incident or issue that a service may encounter, and due to the nature of complex systems, there isn't always a common procedure for every incident that occurs. However, it can be helpful to capture repeated processes or initial approaches to troubleshooting.
 
 When changes are made to how the service functions or is implemented, or when previous recurring issues are fixed, the runbook may become out of date and the procedures within them suddenly become invalidated. A stale procedure in a runbook can sometimes be more dangerous than no procedure at all because incident responders trust your previous experience and may try these invalidated procedures without the typical scrutiny during a moment of crisis. The previous "fix" might now instead inflict additional damage. To avoid this, be sure to include a step or stage for updating runbooks into your release process.
 
 ## Production Operations
-Owning a service also means operating it in production. The service team is responsible for setting up monitoring and alerts (focus on ensuring your SLOs), setting up and maintaining supporting tools, and ensuring an appropriate level of robustness and reliability.
+Owning a service also means operating it in production. The service team is responsible for setting up monitoring and alerts (focus on ensuring your SLOs are met), setting up and maintaining supporting tools, and ensuring an appropriate level of robustness and reliability.
 
 Some organizations use a combination of a centralized infrastructure support team (e.g., SRE) in tandem with support that comes from within the service ownership team. Some organizations have service ownership teams that own the entire stack soup to nuts. The level of responsibility here will vary. However, a number of effective guides to running software in production are available, and we recommend turning to the [Google SRE book](https://landing.google.com/sre/sre-book/toc/) for in-depth guidance when operating in production.
 
@@ -103,7 +103,7 @@ How does your service handle unforeseen circumstances? There's an element of unp
 Project managers can help make full-service ownership manageable for their development teams in several ways:
 
 - Defining what "done" is
-- Being aware how much stress the team is under and shielding them from executive swoop-and-poop
+- Being aware how much stress the team is under and shielding them from [executive swoop-and-poop](https://response.pagerduty.com/training/courses/incident_response/#executive-swoop)
 - Understanding and mitigating dependencies by doing connective tissue work between different teams and features
 - Bringing awareness of what it means to pull people away from other projects to solve a problem
 

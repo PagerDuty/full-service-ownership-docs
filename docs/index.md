@@ -54,6 +54,9 @@ Tips for teams [getting started](getting_started.md): useful for avoiding common
 ### Tips for Scaling
 After early successes, [scaling full-service ownership](scaling.md) across an organization presents other challenges.
 
+### Next Steps
+Put Full Service Ownership [into practice](next_steps.md) for your team using the PagerDuty platform as an example.
+
 ### Additional resources
 Links to [additional reading](resources.md) to help you get started with full-service ownership.
 

@@ -1,5 +1,5 @@
 ---
-cover: 
+cover:
 description: The basics of Full-Service Ownership. Why this level of ownership matters in today's world and why teams struggle to make the shift.
 ---
 ![Introduction](../assets/img/headers/FSO-Intro.png)
@@ -19,7 +19,7 @@ Modern consumers expect convenience, speed, and personalized experiences when us
 
 Prior to the adoption of methodologies like Agile and DevOps, organizations functioned in siloed environments where developers wrote big chunks of monolithic code, then handed it off to several other teams before it made its way into production. That model led to long feedback loops, communication gaps, blindspots, and several other unintended human factors that stifle a company's ability to respond to customer needs quickly.
 
-Empowering engineers to work at the edge of the customer experience has led today's pack of successful digital giants to deliver stronger consumer value, faster innovation, and better customer satisfaction. But to get there, engineers must go far beyond just writing code and handing it off to someone else before it reaches customers. Owning the entire operational lifecycle of application services is the "secret sauce" that unlocks the ability to satisfy modern consumers.
+Today, engineers must go far beyond just writing code and handing it off to someone else before it reaches customers. Owning the entire operational lifecycle of application services is the "secret sauce" that unlocks the ability to satisfy modern consumers.
 
 ## Making the shift
 But many existing teams struggle with shifting into a mode where they have full ownership of their services in production. Why is that? Who exactly are these teams that may be struggling with that shift?
@@ -32,7 +32,7 @@ Regardless of company size, industry, or operating model—someone somewhere in 
 
 A "service" will be more fully defined shortly. For now, if the software you wrote provides value to other people, that's a service. If you are in charge of maintaining this service and/or delivering it to the other people for whom it provides value (e.g., customers), then you should likely be the owner of that service.
 
-It takes more than building, maintaining, and operating a service to be its "owner," but that's a good start. Full-service ownership also includes communication, compromise, and commitment. If that sounds like a relationship, that's because it is. When you are building something that other people (your colleagues, your customers, etc.) are relying on, it means that you are in a relationship with them.
+It takes more than building, maintaining, and operating a service to be its "owner," but that's a good start. Full-service ownership also includes communication, compromise, and commitment. If that sounds like a relationship, it's because it is. When you are building something that other people (your colleagues, your customers, etc.) are relying on, it means that you are in a relationship with them.
 
 That more personal model for development may sound like a lot of time, effort, and work. But the alternative is a world of handoffs, obfuscation, confusion, distrust, and frustration. At PagerDuty, it's taken us years to understand how to do it for ourselves, and it's our hope that you can use this documentation to start productive conversations at your organization that can help you reach a more mature service ownership process in the most efficient way possible.
 
