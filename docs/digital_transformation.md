@@ -1,7 +1,3 @@
----
-cover:
-description: Full-Service Ownership and its relationship to Digital Transformation. Start here to demonstrate business value early in your transformation initative.
----
 ![Digital_Transformation](../assets/img/headers/FSO-DigitalTrans.png)
 
 !!! tip

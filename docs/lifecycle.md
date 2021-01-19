@@ -1,7 +1,3 @@
----
-cover:
-description: Considerations for end-to-end management of a service throughout its entire lifecycle.
----
 ![Service Lifecycle](../assets/img/headers/FSO-Lifecycle.png)
 
 > "The various segments of the system of profound knowledge cannot be separated. They interact with each other. For example, knowledge about psychology is incomplete without knowledge of variation." - W. Edwards Deming

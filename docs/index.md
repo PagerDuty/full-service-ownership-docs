@@ -1,7 +1,3 @@
----
-cover:
-description: The Full-Service Ownership Ops Guide: A step-by-step guide for teams that want to fully own their services in production.
----
 ![PagerDuty](../assets/img/headers/FSO-Home.png)
 
 Full-service ownership means that people take responsibility for supporting the software they deliver, at every stage of the software/service lifecycle. That level of ownership brings development teams much closer to their customers, the business, and the value being delivered. This guide provides a step-by-step process that software delivery operations teams can use to ensure they are able to fully own their services.

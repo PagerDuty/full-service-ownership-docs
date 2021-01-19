@@ -1,7 +1,3 @@
----
-cover:
-description: The basics of Full-Service Ownership. Why this level of ownership matters in today's world and why teams struggle to make the shift.
----
 ![Defining a Service](../assets/img/headers/FSO-Defining.png)
 
 > A service is a discrete piece of functionality that provides value and is wholly owned by one team.

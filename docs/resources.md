@@ -1,7 +1,3 @@
----
-cover:
-description: Additional resources cited in this guide.
----
 ![Additional Resources](../assets/img/headers/FSO-Resources.png)
 
 ## Further Reading

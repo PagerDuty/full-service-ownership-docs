@@ -1,7 +1,3 @@
----
-cover:
-description: Put Full Service Ownership into practice using PagerDuty.
----
 ![Next Steps](../assets/img/headers/FSO-NextSteps.png)
 
 Although the practices we've talked about are effective no matter what platform you’re using, it can help to see how these concepts are applied in practice. This section shows how PagerDuty can be used to practice the steps recommended in this guide.
