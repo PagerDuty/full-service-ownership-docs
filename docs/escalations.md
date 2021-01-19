@@ -1,7 +1,3 @@
----
-cover:
-description: Escalations define how teams will respond when your service has an incident. This section illustrates a typical three-tiered escalation policy.
----
 ![Escalation Policies](../assets/img/headers/FSO-Escalation.png)
 
 > "Organizations which design systems will produce designs which are copies of the communication structures of these organizations." - Conway's Law
