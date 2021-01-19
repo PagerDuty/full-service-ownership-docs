@@ -1,8 +1,8 @@
 ---
-cover: assets/img/headers/FullService_DigitalTransformation.png
+cover:
 description: Full-Service Ownership and its relationship to Digital Transformation. Start here to demonstrate business value early in your transformation initative.
 ---
-![Digital_Transformation](../assets/img/headers/FullService_DigitalTransformation.png)
+![Digital_Transformation](../assets/img/headers/FSO-DigitalTrans.png)
 
 !!! tip
     Before proceeding, it’s important to acknowledge the role of digital transformation when implementing full-service ownership. Managers may find this section particularly useful. If digital transformation is not your jam, you should [skip to the next section](defining.md).
@@ -14,7 +14,7 @@ Digital transformation is now an imperative initiative for many executives and o
 
 Services will fail; it's a fact of operating. How your company responds when that happens is what makes all the difference between consumers staying with you or abandoning your services in favor of a competitor's. Reducing the number of handoffs by empowering engineers to own their services in production can significantly mitigate that risk by reducing resolution time whenever incidents occur. Placing subject matter experts with direct knowledge of the systems they support in the role of first responders will decrease the inevitable chaos and panic that arise from uncertainty, leading to lower incident resolution times.
 
-Faster incident resolution times is certainly not the only benefit of implementing full-service ownership ([other benefits include](https://cloud.google.com/devops/state-of-devops/) increased market share, higher profitability, and better team satisfaction, among others), but it is one of the easiest to quickly measure to demonstrate ROI during a transformational initiative that may otherwise take several months or years to achieve measurable results and key desired outcomes.
+Faster incident resolution times are not the only benefits of implementing full-service ownership ([other benefits include](https://cloud.google.com/devops/state-of-devops/) increased market share, higher profitability, and better team satisfaction, among others), but it is one of the easiest to quickly measure to demonstrate ROI during a transformational initiative that may otherwise take several months or years to achieve measurable results and key desired outcomes.
 
 
 ## Demonstrating Value
@@ -28,6 +28,6 @@ _For more information on how PagerDuty classifies incidents, check out the [Inci
 
 How your organization reacts and mitigates the impact of an incident can be measured several ways. Arguably, there may be more sophisticated ways of measuring incident impact, but a good first step for many organizations looking to quantifiably demonstrate the success of shifting full-service ownership models is to focus on measuring Mean-Time-To-Acknowledge (MTTA) and Mean-Time-To-Resolution (MTTR).
 
-MTTA is used to measure the average time between when an incident is triggered and when a user acknowledges awareness of the incident. MTTR measures the average time between when the incident is triggered and when it is resolved. Once an incident is triggered, the clock starts ticking on both MTTA and MTTR. Optimizing the response process through streamlining mechanisms—like adopting the Full-Service Ownership model—can have a positive impact on both measurements by removing the chaos involved in tracking down experts in a moment of crisis.
+MTTA is used to measure the average time between when an incident is triggered and when a user acknowledges awareness of the incident. MTTR measures the average time between when the incident is triggered and when it is resolved. Once an incident is triggered, the clock starts ticking on both MTTA and MTTR. Optimizing the response process through streamlining mechanisms—like adopting the full-service ownership model—can have a positive impact on both measurements by removing the chaos involved in tracking down experts in a moment of crisis.
 
-Again, there are many additional benefits to adopting the model of service ownership described in this guide. Additionally, MTTA and MTTR are by no means the end-all-be-all measurements that matter most when understanding how your organization manages incidents. But these measures do provide an incredibly valuable tool when seeking to demonstrate the business value of adopting a full-service ownership model that should be a key part of any Digital Transformation initiative.
+Again, there are many additional benefits to adopting the model of service ownership described in this guide. Additionally, MTTA and MTTR are by no means the end-all, be-all measurements that matter most when understanding how your organization manages incidents. But these measures do provide an incredibly valuable tool when seeking to demonstrate the business value of adopting a full-service ownership model that should be a key part of any Digital Transformation initiative.

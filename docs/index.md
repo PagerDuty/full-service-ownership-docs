@@ -1,8 +1,8 @@
 ---
-cover: assets/img/headers/FullService_Home.png
+cover:
 description: The Full-Service Ownership Ops Guide: A step-by-step guide for teams that want to fully own their services in production.
 ---
-![PagerDuty](../assets/img/headers/FullService_Home.png)
+![PagerDuty](../assets/img/headers/FSO-Home.png)
 
 Full-service ownership means that people take responsibility for supporting the software they deliver, at every stage of the software/service lifecycle. That level of ownership brings development teams much closer to their customers, the business, and the value being delivered. This guide provides a step-by-step process that software delivery operations teams can use to ensure they are able to fully own their services.
 
@@ -53,6 +53,9 @@ Tips for teams [getting started](getting_started.md): useful for avoiding common
 
 ### Tips for Scaling
 After early successes, [scaling full-service ownership](scaling.md) across an organization presents other challenges.
+
+### Next Steps
+Put Full Service Ownership [into practice](next_steps.md) for your team using the PagerDuty platform as an example.
 
 ### Additional resources
 Links to [additional reading](resources.md) to help you get started with full-service ownership.
