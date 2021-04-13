@@ -1,4 +1,4 @@
-![Getting Started](../assets/img/headers/FSO-GettingStarted.png)
+![Getting Started](/assets/images/headers/FSO-GettingStarted.png)
 
 > "It does not happen all at once. There is no instant pudding." - W. Edwards Deming
 

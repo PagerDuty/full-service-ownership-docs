@@ -1,4 +1,4 @@
-![Tips for Scaling](../assets/img/headers/FSO-Scaling.png)
+![Tips for Scaling](/assets/images/headers/FSO-Scaling.png)
 
 > "Sub-optimization is when everyone is working for themselves. Optimization is when everyone is working to help the company." - W. Edwards Deming
 

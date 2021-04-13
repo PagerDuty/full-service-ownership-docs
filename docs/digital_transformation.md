@@ -1,4 +1,4 @@
-![Digital_Transformation](../assets/img/headers/FSO-DigitalTrans.png)
+![Digital_Transformation](/assets/images/headers/FSO-DigitalTrans.png)
 
 !!! tip
     Before proceeding, it’s important to acknowledge the role of digital transformation when implementing full-service ownership. Managers may find this section particularly useful. If digital transformation is not your jam, you should [skip to the next section](defining.md).
@@ -18,7 +18,7 @@ A quick win along your transformational path can be to prove success through met
 
 Measuring the impact of major incidents can be done with a simple graph where X represents time and Y represents the number of customers affected. The sample chart below references a critical incident as the impact grows over time. The bigger the area under the trend line, the more severe the incident. The area under the curve and the time it takes to start going down illustrates the impact on customers.
 
-![incidentimpact chart](../assets/img/incident_impact.png)
+![incidentimpact chart](/assets/images/incident_impact.png)
 
 _For more information on how PagerDuty classifies incidents, check out the [Incident Response Guide](https://response.pagerduty.com/before/severity_levels/)._
 

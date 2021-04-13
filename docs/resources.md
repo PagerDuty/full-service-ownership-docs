@@ -1,4 +1,4 @@
-![Additional Resources](../assets/img/headers/FSO-Resources.png)
+![Additional Resources](/assets/images/headers/FSO-Resources.png)
 
 ## Further Reading
 

@@ -1,4 +1,4 @@
-![Escalation Policies](../assets/img/headers/FSO-Escalation.png)
+![Escalation Policies](/assets/images/headers/FSO-Escalation.png)
 
 > "Organizations which design systems will produce designs which are copies of the communication structures of these organizations." - Conway's Law
 
