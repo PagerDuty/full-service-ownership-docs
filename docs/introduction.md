@@ -1,4 +1,4 @@
-![Introduction](../assets/img/headers/FSO-Intro.png)
+![Introduction](/assets/images/headers/FSO-Intro.png)
 
 > "Innovation comes from people who take joy in their work." - W. Edwards Deming
 

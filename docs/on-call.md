@@ -1,4 +1,4 @@
-![Going On-Call](../assets/img/headers/FSO-OnCall.png)
+![Going On-Call](/assets/images/headers/FSO-OnCall.png)
 
 > My greatest fear is getting a high priority page while on-call in a packed Broadway theater, and PagerDuty plays a progressively louder and louder quacking siren, and Alexander Hamilton himself comes up to slap me and my phone out of my hand, and walks me out of the theater” via [Twitter](https://twitter.com/JulianVModesto/status/1222279149819256832)
 

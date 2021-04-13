@@ -1,4 +1,4 @@
-![Next Steps](../assets/img/headers/FSO-NextSteps.png)
+![Next Steps](/assets/images/headers/FSO-NextSteps.png)
 
 Although the practices we've talked about are effective no matter what platform you’re using, it can help to see how these concepts are applied in practice. This section shows how PagerDuty can be used to practice the steps recommended in this guide.
 
@@ -31,11 +31,11 @@ Include helpful information in the service description to help new team members 
 
 To get started setting up services inside PagerDuty, navigate to the Services tab, then click on New Service.
 
-![service directory image](../assets/img/service-directory.png)
+![service directory image](/assets/images/service-directory.png)
 
 From there, use the above best practices to give the service a name and a description.
 
-![add a service image](../assets/img/add-a-service.png)
+![add a service image](/assets/images/add-a-service.png)
 
 Once you have added a name and description, you will have the ability to configure your Integration Settings. After you have configured your Integration Settings, the next step is Incident Settings. Incident Settings is where you will select the Escalation Policy (described in more detail below) and [Response Plays](https://support.pagerduty.com/docs/response-automation).
 
@@ -54,14 +54,14 @@ Once the escalation policies are created, services should be attached to those p
 
 Example escalation policy for an Application Team:
 
-![escalation policy image](../assets/img/application-team-escalation-policy.png)
+![escalation policy image](/assets/images/application-team-escalation-policy.png)
 
 ### Understanding Dependencies in PagerDuty
 Service Dependencies can be used to define other technical or business services that your services uses or that consume your services. As [mentioned earlier](functions/#other-components) in this guide, it may be impractical to list all of the dependencies for a service; however, things to consider calling out are single points of failure, possible circular dependencies, and critical path components that are likely to fail.
 
 Within PagerDuty, if an issue arises on your service or on one of the dependencies you have configured, you can use the Impact tab to quickly assess the scope of the impact.
 
-![service dependency image](../assets/img/service-dependencies.png)
+![service dependency image](/assets/images/service-dependencies.png)
 
 You can expand each technical service to see details such as the associated escalation policy and who is currently on-call.
 

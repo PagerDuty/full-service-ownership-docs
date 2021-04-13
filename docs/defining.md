@@ -1,4 +1,4 @@
-![Defining a Service](../assets/img/headers/FSO-Defining.png)
+![Defining a Service](/assets/images/headers/FSO-Defining.png)
 
 > A service is a discrete piece of functionality that provides value and is wholly owned by one team.
 

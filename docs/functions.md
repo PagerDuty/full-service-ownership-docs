@@ -1,4 +1,4 @@
-![Service Ownership Functions](../assets/img/headers/FSO-Functions.png)
+![Service Ownership Functions](/assets/images/headers/FSO-Functions.png)
 
 > "Cease dependence on mass inspection to achieve quality. Improve the process and build quality into the product in the first place." - W. Edwards Deming
 
