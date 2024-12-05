@@ -1,6 +1,6 @@
 ![Going On-Call](/assets/images/headers/FSO-OnCall.png)
 
-> My greatest fear is getting a high priority page while on-call in a packed Broadway theater, and PagerDuty plays a progressively louder and louder quacking siren, and Alexander Hamilton himself comes up to slap me and my phone out of my hand, and walks me out of the theater” via [Twitter](https://twitter.com/JulianVModesto/status/1222279149819256832)
+> My greatest fear is getting a high priority page while on-call in a packed Broadway theater, and PagerDuty plays a progressively louder and louder quacking siren, and Alexander Hamilton himself comes up to slap me and my phone out of my hand, and walks me out of the theater” via [Twitter](https://twitter.com/JulianVModesto/status/1222279149819256832){:target="_blank" }
 
 Going on-call for the first time can seem intimidating. But with proper preparation and practice, incident responders can have a positive experience that provides useful hands-on experience they can use to build more resilient production services. This section details how to prepare for going on-call and what to do during your shift in the on-call rotation.
 
@@ -13,7 +13,7 @@ If you're on-call, you're expected to be available during your shift to the best
 ### Be Prepared
 Proper preparation reduces stress and anxiety when going on-call. It also helps mitigate chaos if and when an incident occurs. The first step to going on-call is to understand exactly what you will need so that you aren't fumbling around at 3 a.m. when a notification comes in. Use this checklist to help you get started:
 
-- **Mobile Phone.** Double check that you won't be going [anywhere that won't have mobile phone service](https://www.opensignal.com/networks). If you're going any place where you're expected to silence your phone (e.g., a movie theater), make sure you have an alternate device that allows you to still receive notifications without disturbing others (e.g., a smartwatch).
+- **Mobile Phone.** Double check that you won't be going [anywhere that won't have mobile phone service](https://www.opensignal.com/networks){:target="_blank" }. If you're going any place where you're expected to silence your phone (e.g., a movie theater), make sure you have an alternate device that allows you to still receive notifications without disturbing others (e.g., a smartwatch).
 
 - **Laptop.** When you're on-call, you're likely going to need a terminal of some sort. For most of us, that means having a laptop with you at all times. Wherever you go, your laptop should be within a one-minute reach.
 
@@ -31,7 +31,7 @@ Incidents don't care about your normal work hours. You should take extra steps t
 
 - **Add Contact Numbers.** Add the originating contact number for notifications to your phone's list of favorites. Adding these numbers to favorites can help you bypass your Do Not Disturb settings.
 
-- **Bypass Do Not Disturb.** Follow the right procedure to ensure that any numbers in your favorites list will bypass Do Not Disturb for [iOS](https://support.apple.com/en-us/HT204321), [Android](https://support.google.com/android/answer/9069335?hl=en), or for [Android Apps](https://www.techrepublic.com/article/how-to-allow-an-app-notification-to-override-do-not-disturb-in-android-nougat/) (such as allowing Slack and email to bypass).
+- **Bypass Do Not Disturb.** Follow the right procedure to ensure that any numbers in your favorites list will bypass Do Not Disturb for [iOS](https://support.apple.com/en-us/HT204321){:target="_blank" }, [Android](https://support.google.com/android/answer/9069335?hl=en){:target="_blank" }, or for [Android Apps](https://www.techrepublic.com/article/how-to-allow-an-app-notification-to-override-do-not-disturb-in-android-nougat/){:target="_blank" } (such as allowing Slack and email to bypass).
 
 - **Customize Ringtones.** The setting you both love and hate! Choosing something obvious and different from your normal phone notifications will help surface the notifications you care about. Bonus: you'll never hear that sound the same way after your first few incidents.
 
