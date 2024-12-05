@@ -3,7 +3,7 @@
 Although the practices we've talked about are effective no matter what platform you’re using, it can help to see how these concepts are applied in practice. This section shows how PagerDuty can be used to practice the steps recommended in this guide.
 
 !!! tip
-    If you are currently searching for a solution and are not a PagerDuty customer, you can sign up for a [14-day free trial](https://www.pagerduty.com/sign-up-free/?type=free). This section is here to help PagerDuty customers jumpstart implementation of full-service ownership, with steps on how to define services, as well as understanding dependencies in PagerDuty, and setting up on-call rotations and escalations policies for a service.
+    If you are currently searching for a solution and are not a PagerDuty customer, you can sign up for a [14-day free trial](https://www.pagerduty.com/sign-up-free/?type=free){:target="_blank" }. This section is here to help PagerDuty customers jumpstart implementation of full-service ownership, with steps on how to define services, as well as understanding dependencies in PagerDuty, and setting up on-call rotations and escalations policies for a service.
 
 Full-service ownership has many benefits, as outlined in this guide. If you are a PagerDuty customer, there are a number of capabilities and features that will make your journey to full-service ownership easier to manage.
 
@@ -14,7 +14,7 @@ There are many benefits to configuring your services to be specific and reflecti
 At PagerDuty, we recommend some best practices for naming services, escalation policies, and service dependencies, which are detailed below.
 
 ### Naming Services
-As previously mentioned in this guide under [Service Documentation](https://ownership.pagerduty.com/functions/#service-name), service names should be descriptive and have enough context that anyone interacting with the service understands what it is meant to represent.
+As previously mentioned in this guide under [Service Documentation](/functions/#service-name), service names should be descriptive and have enough context that anyone interacting with the service understands what it is meant to represent.
 
 - Examples: “Shopping Cart” or “Shopping Cart - App Server”.
 - Leave out words like “PagerDuty” or “Alert.” These words are already included when PagerDuty sends notifications.
@@ -37,10 +37,10 @@ From there, use the above best practices to give the service a name and a descri
 
 ![add a service image](/assets/images/add-a-service.png)
 
-Once you have added a name and description, you will have the ability to configure your Integration Settings. After you have configured your Integration Settings, the next step is Incident Settings. Incident Settings is where you will select the Escalation Policy (described in more detail below) and [Response Plays](https://support.pagerduty.com/docs/response-automation).
+Once you have added a name and description, you will have the ability to configure your Integration Settings. After you have configured your Integration Settings, the next step is Incident Settings. Incident Settings is where you will select the Escalation Policy (described in more detail below) and [Response Plays](https://support.pagerduty.com/docs/response-automation){:target="_blank" }.
 
 
-Response Plays are available on the [Business or Digital Operations plans](https://www.pagerduty.com/pricing/). Response Plays provide a powerful mechanism to drastically reduce the time taken to execute the incident response process by automating actions such as assembling a response team of multiple on-call responders and an [Incident Commander](https://response.pagerduty.com/), and subscribing stakeholders to an incident. To learn more about Response Plays, check out the [Response Plays Knowledge Base article](https://support.pagerduty.com/docs/response-automation).
+Response Plays are available on the [Business or Digital Operations plans](https://www.pagerduty.com/pricing/){:target="_blank" }. Response Plays provide a powerful mechanism to drastically reduce the time taken to execute the incident response process by automating actions such as assembling a response team of multiple on-call responders and an [Incident Commander](https://response.pagerduty.com/), and subscribing stakeholders to an incident. To learn more about Response Plays, check out the [Response Plays Knowledge Base article](https://support.pagerduty.com/docs/response-automation){:target="_blank" }.
 
 ### Escalation Policies in PagerDuty
 
@@ -65,7 +65,7 @@ Within PagerDuty, if an issue arises on your service or on one of the dependenci
 
 You can expand each technical service to see details such as the associated escalation policy and who is currently on-call.
 
-To learn how to add or remove Service Dependencies via the web app, check out this handy [Knowledge Base article](https://support.pagerduty.com/docs/service-profile#service-dependencies). You will also find information on Suggested Service Dependencies. Suggested Service Dependencies use machine learning to suggest other services that may depend on your service or that your service depends on.
+To learn how to add or remove Service Dependencies via the web app, check out this handy [Knowledge Base article](https://support.pagerduty.com/docs/service-profile#service-dependencies){:target="_blank" }. You will also find information on Suggested Service Dependencies. Suggested Service Dependencies use machine learning to suggest other services that may depend on your service or that your service depends on.
 
 
 If incidents on your service tend to be followed by incidents on another service, or vice versa, Suggested Technical Service Dependencies will be provided. This feature ensures that a service’s dependency topography is continually up-to-date as your technical infrastructure evolves and changes. You may view Suggested Service Dependencies on individual services’ Impact tabs or on an active incident, which will have a blue dot with the number of suggested dependencies, if they are available.
