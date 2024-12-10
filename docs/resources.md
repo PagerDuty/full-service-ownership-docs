@@ -8,8 +8,8 @@
 - [Operational Reviews](https://reviews.pagerduty.com) (PagerDuty)
 
 ### Industry Reports
-- [State of Digital Operations 2017 UK report](https://www.pagerduty.com/resources/reports/digital-operations-uk/){:target="_blank" } (PagerDuty)
-- [The 2019 Accelerate State of DevOps Report](https://cloud.google.com/devops/state-of-devops/){:target="_blank" } (DORA)
+- [State of Digital Operations 2017 UK report](https://www.pagerduty.com/newsroom/uk-digital-operations-report){:target="_blank" } (PagerDuty)
+- [The Accelerate State of DevOps Report](https://cloud.google.com/devops/state-of-devops/){:target="_blank" } (DORA)
 
 ### Technical Reading
 - [Trunk-based Development](https://trunkbaseddevelopment.com/){:target="_blank" } (Paul Hammant)
@@ -19,7 +19,7 @@
 - [Semantic API Versioning](https://www.fourkitchens.com/blog/development/semantic-api-manifesto-versioning-apis/){:target="_blank" } (Four Kitchens)
 
 ### Collaboration
-- [Tools for Psychological Safety](https://rework.withgoogle.com/guides/understanding-team-effectiveness/steps/introduction/){:target="_blank" } (re:Work)
+- [Tools for Psychological Safety](https://rework.withgoogle.com/en/guides/understanding-team-effectiveness#foster-effective-team-behaviors){:target="_blank" } (re:Work)
 - [Life and Times of an SRE Product Owner](https://www.pagerduty.com/blog/employee-spotlight-sre-product-owner/){:target="_blank" } (PagerDuty)
 - [Product vs. Project Managers: 12 Best Lessons for Product Team Work](https://medium.com/pminsider/product-vs-project-managers-marty-cagans-twelve-best-lessons-for-product-team-work-548d706b3f74){:target="_blank" } (Marty Cagan)
 - [Lessons in Building Well-Formed Scrum and Kanban Teams](https://www.pagerduty.com/blog/well-formed-delivery-teams/){:target="_blank" } (PagerDuty)
