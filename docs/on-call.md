@@ -57,10 +57,10 @@ When you have a potential solution, your task is to return the service to full o
 
 While resolving a minor incident, you should keep basic notes when practical. It is vital to share information with your team, such as the symptoms that initially triggered the incident, investigative steps you took, and the actions taken to successfully resolve the incident. These notes can be immensely helpful in keeping your runbooks up-to-date. You should strive to continuously refactor and improve your team's knowledge base and documentation. Add redundant links and pointers if your mental model of the docs or codebase don't match what you discover during the course of the incident.
 
-If a minor incident is beyond the scope of what your team is responsible for or can do to resolve the issue, you may need to initiate a [major incident](https://response.pagerduty.com).
+If a minor incident is beyond the scope of what your team is responsible for or can do to resolve the issue, you may need to initiate a [major incident](https://response.pagerduty.com){:target="_blank" }.
 
 ## After On-Call
-At the end of an on-call shift, responders should have an [On-Call Review Meeting](https://reviews.pagerduty.com/reviews/oncall/). Practicing a proper on-call handoff provides the team an opportunity to learn directly from the responder(s) coming off the previous shift. The meeting allows your team to catch problems before they become trends or contribute significant negative impact.
+At the end of an on-call shift, responders should have an [On-Call Review Meeting](https://reviews.pagerduty.com/reviews/oncall/){:target="_blank" }. Practicing a proper on-call handoff provides the team an opportunity to learn directly from the responder(s) coming off the previous shift. The meeting allows your team to catch problems before they become trends or contribute significant negative impact.
 
 Are there noisy alerts that need to be cut down to reduce alert fatigue? Is this service needlessly sending notifications for non-actionable events? The primary purpose of this review is to understand the on-call load for this shift, identify any sources of pain, transfer knowledge between responders, and plan for improvements of future on-call shifts.
 

@@ -40,7 +40,7 @@ From there, use the above best practices to give the service a name and a descri
 Once you have added a name and description, you will have the ability to configure your Integration Settings. After you have configured your Integration Settings, the next step is Incident Settings. Incident Settings is where you will select the Escalation Policy (described in more detail below) and [Response Plays](https://support.pagerduty.com/docs/response-automation){:target="_blank" }.
 
 
-Response Plays are available on the [Business or Digital Operations plans](https://www.pagerduty.com/pricing/){:target="_blank" }. Response Plays provide a powerful mechanism to drastically reduce the time taken to execute the incident response process by automating actions such as assembling a response team of multiple on-call responders and an [Incident Commander](https://response.pagerduty.com/), and subscribing stakeholders to an incident. To learn more about Response Plays, check out the [Response Plays Knowledge Base article](https://support.pagerduty.com/docs/response-automation){:target="_blank" }.
+Response Plays are available on the [Business or Digital Operations plans](https://www.pagerduty.com/pricing/){:target="_blank" }. Response Plays provide a powerful mechanism to drastically reduce the time taken to execute the incident response process by automating actions such as assembling a response team of multiple on-call responders and an [Incident Commander](https://response.pagerduty.com/){:target="_blank" }, and subscribing stakeholders to an incident. To learn more about Response Plays, check out the [Response Plays Knowledge Base article](https://support.pagerduty.com/docs/response-automation){:target="_blank" }.
 
 ### Escalation Policies in PagerDuty
 
