@@ -20,7 +20,7 @@ Measuring the impact of major incidents can be done with a simple graph where X 
 
 ![incidentimpact chart](/assets/images/incident_impact.png)
 
-_For more information on how PagerDuty classifies incidents, check out the [Incident Response Guide](https://response.pagerduty.com/before/severity_levels/)._
+_For more information on how PagerDuty classifies incidents, check out the [Incident Response Guide](https://response.pagerduty.com/before/severity_levels/){:target="_blank" }._
 
 How your organization reacts and mitigates the impact of an incident can be measured several ways. Arguably, there may be more sophisticated ways of measuring incident impact, but a good first step for many organizations looking to quantifiably demonstrate the success of shifting full-service ownership models is to focus on measuring Mean-Time-To-Acknowledge (MTTA) and Mean-Time-To-Resolution (MTTR).
 

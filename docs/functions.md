@@ -94,12 +94,12 @@ Some organizations use a combination of a centralized infrastructure support tea
 ## Project Management
 Full-service ownership extends well beyond the practices of software development and operating software in production. Software is neither written nor run in a vacuum. How the business supports ongoing development is a critical function of enabling full-service ownership.
 
-How does your service handle unforeseen circumstances? There's an element of unpredictability in full-service ownership. When things go wrong and an incident occurs, you will discover new things via outcomes and action items from your [postmortems](https://postmortems.pagerduty.com). Hopefully, your team might discover necessary changes before an incident occurs. But how and when does your development team perform proactive maintenance? Project managers are an integral part of full-service ownership because they have to be mindful about building in necessary buffers for unplanned work.
+How does your service handle unforeseen circumstances? There's an element of unpredictability in full-service ownership. When things go wrong and an incident occurs, you will discover new things via outcomes and action items from your [postmortems](https://postmortems.pagerduty.com){:target="_blank" }. Hopefully, your team might discover necessary changes before an incident occurs. But how and when does your development team perform proactive maintenance? Project managers are an integral part of full-service ownership because they have to be mindful about building in necessary buffers for unplanned work.
 
 Project managers can help make full-service ownership manageable for their development teams in several ways:
 
 - Defining what "done" is
-- Being aware how much stress the team is under and shielding them from [executive swoop-and-poop](https://response.pagerduty.com/training/courses/incident_response/#executive-swoop)
+- Being aware how much stress the team is under and shielding them from [executive swoop-and-poop](https://response.pagerduty.com/training/courses/incident_response/#executive-swoop){:target="_blank" }
 - Understanding and mitigating dependencies by doing connective tissue work between different teams and features
 - Bringing awareness of what it means to pull people away from other projects to solve a problem
 

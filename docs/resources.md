@@ -3,9 +3,9 @@
 ## Further Reading
 
 ### Operational Guides
-- [Incident Response Guide](https://response.pagerduty.com) (PagerDuty)
-- [Postmortems Guide](https://postmortems.pagerduty.com/) (PagerDuty)
-- [Operational Reviews](https://reviews.pagerduty.com) (PagerDuty)
+- [Incident Response Guide](https://response.pagerduty.com){:target="_blank" } (PagerDuty)
+- [Postmortems Guide](https://postmortems.pagerduty.com/){:target="_blank" } (PagerDuty)
+- [Operational Reviews](https://reviews.pagerduty.com){:target="_blank" } (PagerDuty)
 
 ### Industry Reports
 - [State of Digital Operations 2017 UK report](https://www.pagerduty.com/newsroom/uk-digital-operations-report){:target="_blank" } (PagerDuty)
