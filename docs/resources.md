@@ -27,8 +27,8 @@
 
 ### Resilient Systems
 - [How to Manage a Tier Zero Service](https://www.pagerduty.com/blog/how-to-manage-a-tier-zero-service/){:target="_blank" } (PagerDuty)
-- [Failure Friday: How We Ensure PagerDuty is Always Reliable](https://www.pagerduty.com/blog/failure-friday-at-pagerduty/){:target="_blank" } (PagerDuty)
-- [10 Years of Failure Friday at PagerDuty: Fostering Resilience, Learning, and Reliability](https://www.pagerduty.com/blog/10-years-of-failure-friday-at-pagerduty-fostering-resilience-learning-and-reliability/){:target="_blank" } (PagerDuty)
+- [Failure Fridays at PagerDuty: Embracing Failure for Success - Stevenson Jean Pierre](https://www.youtube.com/watch?v=rRIYkud4Im0){:target="_blank" } at Emerging Tech East 2024 (PagerDuty)
+- [Failure Friday livestream convo with SJP and Rich Lafferty](https://www.youtube.com/watch?v=XKl-7hB3paY){:target="_blank" } (PagerDuty)
 - [HowTo Happy Hour discussion: Failure Fridays with Rich Lafferty, Stevenson Jean-Pierre, and Mandi Walls](https://www.youtube.com/watch?v=XKl-7hB3paY){:target="_blank" } (PagerDuty)
 - [Chaos Engineering With Bruce Wong](https://www.pageittothelimit.com/chaos-engineering-with-bruce-wong/){:target="_blank" } (Page It to the Limit)
 
