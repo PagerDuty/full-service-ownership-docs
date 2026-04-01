@@ -77,7 +77,7 @@ At PagerDuty, a Tier 1 service has the strictest expectation of latency, uptime,
 
 We also have Tier 2 and Tier 3 services. Tier 2 services, for example, have support hours that only span across weekdays. These types of services may provide additional functionality that is not critical or may be new services that have not yet been rolled out to general availability in production.
 
-Your tier definitions may be different (or sometimes, [even our own!](https://www.pagerduty.com/blog/how-to-manage-a-tier-zero-service/){:target="_blank" }). For example, some organizations have a strictly binary sense of tier levels: critical path or not critical path. Your organizational definitions may vary, but establishing them can quickly help set expectations across teams.
+Your tier definitions may be different. For example, some organizations have a strictly binary sense of tier levels: critical path or not critical path. Your organizational definitions may vary, but establishing them can quickly help set expectations across teams.
 
 ## Runbooks
 Things will go wrong. Services will fail for any variety of reasons. As you learn about the different nuances of your service, you should keep a record of what you've successfully done in the past that might resolve common issues in the future. In an ideal world, you have the ability to resolve these common issues at the source of the problem within your code. But sometimes, a procedural fix may be necessary until you reach that ideal state. [Runbooks](https://www.pagerduty.com/resources/learn/what-is-a-runbook/){:target="_blank" } are a great place to store these types of procedural fixes.
