@@ -57,7 +57,7 @@ Example escalation policy for an Application Team:
 ![escalation policy image](/assets/images/application-team-escalation-policy.png)
 
 ### Understanding Dependencies in PagerDuty
-Service Dependencies can be used to define other technical or business services that your services uses or that consume your services. As [mentioned earlier](functions/#other-components) in this guide, it may be impractical to list all of the dependencies for a service; however, things to consider calling out are single points of failure, possible circular dependencies, and critical path components that are likely to fail.
+Service Dependencies can be used to define other technical or business services that your services uses or that consume your services. As [mentioned earlier](/functions/#other-components) in this guide, it may be impractical to list all of the dependencies for a service; however, things to consider calling out are single points of failure, possible circular dependencies, and critical path components that are likely to fail.
 
 Within PagerDuty, if an issue arises on your service or on one of the dependencies you have configured, you can use the Impact tab to quickly assess the scope of the impact.
 
