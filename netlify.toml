@@ -1,11 +1,105 @@
+
+# netlify.toml — ownership.pagerduty.com
+# This site now only redirects to docs.pagerduty.com/ops-guides/service-ownership.
+
+# ---------------------------------------------------------------------------
+# Headers
+# ---------------------------------------------------------------------------
+# These are attached to the 301 responses too. Referrer-Policy matters here:
+# a redirect response's Referrer-Policy is applied to the follow-up request,
+# so "same-origin" would strip the referrer when the browser goes on to
+# docs.pagerduty.com (cross-origin), and docs analytics would lose the
+# original traffic source (Google, blogs, Slack, etc.).
 [[headers]]
   for = "/*"
   [headers.values]
-    Strict-Transport-Security = "max-age=31536000 ; includeSubDomains"
+    Strict-Transport-Security = "max-age=31536000; includeSubDomains"
     X-Content-Type-Options = "nosniff"
     X-Frame-Options = "DENY"
-    X-XSS-Protection = "1; mode=block"
-    Referrer-Policy = "same-origin"
-    Feature-Policy = "accelerometer 'none'; camera 'none'; geolocation 'none'; gyroscope 'none'; magnetometer 'none'; microphone 'none'; payment 'none'; usb 'none'"
-    Content-Security-Policy-Report-Only = "default-src 'none'; script-src 'self' ssl.google-analytics.com www.google-analytics.com 'sha256-AzwHtScSzFOoXIoLRz4+vK2rDADGdNC3AXQG5FjKK68=' 'sha256-8IZh+gkrYCTCvcu/zawPN9Vj4RLghgOT4F5rTZXvdkQ='; object-src 'self'; style-src 'self'; img-src 'self' data: ssl.google-analytics.com www.google-analytics.com; media-src 'none'; frame-src www.youtube.com www.youtube-nocookie.com; font-src 'self'; connect-src 'self' ssl.google-analytics.com www.google-analytics.com; base-uri 'none'; form-action 'self'; frame-ancestors 'none'"
+    Referrer-Policy = "strict-origin-when-cross-origin"
 
+# ---------------------------------------------------------------------------
+# Redirects — first match wins. Keep the catch-all LAST.
+# force = true is required because the old MkDocs build output (if still
+# deployed) would otherwise shadow these rules.
+# ---------------------------------------------------------------------------
+[[redirects]]
+  from = "/"
+  to = "https://docs.pagerduty.com/ops-guides/service-ownership"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/introduction/*"
+  to = "https://docs.pagerduty.com/ops-guides/service-ownership/introduction"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/digital_transformation/*"
+  to = "https://docs.pagerduty.com/ops-guides/service-ownership/digital-transformation"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/defining/*"
+  to = "https://docs.pagerduty.com/ops-guides/service-ownership/defining-a-service"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/functions/*"
+  to = "https://docs.pagerduty.com/ops-guides/service-ownership/service-ownership-functions"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/lifecycle/*"
+  to = "https://docs.pagerduty.com/ops-guides/service-ownership/lifecycle-of-a-service"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/escalations/*"
+  to = "https://docs.pagerduty.com/ops-guides/service-ownership/escalation-policies"
+  status = 301
+  force = true
+
+# Old deep links like /on-call/#on-call-etiquette keep their fragment: the
+# browser re-applies it to on-call-shifts, which needs that anchor.
+[[redirects]]
+  from = "/on-call/*"
+  to = "https://docs.pagerduty.com/ops-guides/service-ownership/on-call-shifts"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/getting_started/*"
+  to = "https://docs.pagerduty.com/ops-guides/service-ownership/tips-for-getting-started"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/scaling/*"
+  to = "https://docs.pagerduty.com/ops-guides/service-ownership/tips-for-scaling"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/next_steps/*"
+  to = "https://docs.pagerduty.com/ops-guides/service-ownership/next-steps"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/resources/*"
+  to = "https://docs.pagerduty.com/ops-guides/service-ownership/additional-resources"
+  status = 301
+  force = true
+
+# Catch-all: assets, sitemap.xml, search index, unknown/mistyped URLs
+[[redirects]]
+  from = "/*"
+  to = "https://docs.pagerduty.com/ops-guides/service-ownership"
+  status = 301
+  force = true
